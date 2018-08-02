@@ -1,4 +1,4 @@
-import lazy from 'lazy-value'
+import lazy from './utils/lazy';
 import {loadGmapApi} from './manager'
 
 import Marker from './components/marker'
